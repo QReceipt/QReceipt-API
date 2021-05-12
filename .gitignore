@@ -1,3 +1,9 @@
+#QReceipt-API
+nohup.out
+.env
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
